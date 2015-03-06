@@ -4,7 +4,7 @@ Simple docker image with postgres support.
 
 You can simply use it with docker-compose:
 
-    git clone git@github.com/alexex/docker-adminer-psql.git
+    git clone git@github.com:alexex/docker-adminer-psql.git
     cd docker-adminer-psql
     docker-compose up
 
