@@ -1,6 +1,5 @@
-web:
+adminer:
     build: .
     ports:
         - "4001:80"
-    volumes:
-        - "adminer:/var/www/html"
+
